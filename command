@@ -30,6 +30,6 @@ kill @e[type=egg]
 https://www.youtube.com/watch?v=QTyYvADZptg&t=5s
 หลัง 5:54
 
-dowload map
+download map
 https://www.mediafire.com/file/nudx7kyvi30b1dg/TAWrYpT9GwA=.rar/file
 
